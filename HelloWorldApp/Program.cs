@@ -13,6 +13,10 @@ namespace HelloWorldApp
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Andreas was here!");
+
+            Console.WriteLine("Fredrik was here!");
+
+            Console.WriteLine("Jag smög in en...");
         }
     }
 }
