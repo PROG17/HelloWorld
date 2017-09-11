@@ -20,6 +20,8 @@ namespace HelloWorldApp
             Console.WriteLine("Jag smög in en...//Elias");
 
             Console.WriteLine("johanna");
+
+            Console.WriteLine("Thomas was here, but the he left");
         }
     }
 }
