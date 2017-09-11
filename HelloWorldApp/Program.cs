@@ -27,6 +27,8 @@ namespace HelloWorldApp
             Console.WriteLine("hejhej på dig!");
 
             Console.WriteLine("Feyona is here to stay!");
+
+            Console.WriteLine("HEj hej");
         }
     }
 }
