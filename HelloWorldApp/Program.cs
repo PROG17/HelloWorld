@@ -10,7 +10,7 @@ namespace HelloWorldApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Nackademin!");
 
             Console.WriteLine("Andreas was here!");
 
