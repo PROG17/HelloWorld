@@ -46,7 +46,7 @@ namespace HelloWorldApp
                 Console.WriteLine("Gå på rast!");
             }
 
-            Console.WriteLine("Rick James!");
+            Console.WriteLine("testing");
         }   
     }
 }
