@@ -20,7 +20,7 @@ namespace HelloWorldApp
 
             Console.WriteLine("johanna");
 
-            Console.WriteLine("Lunch!!");
+            Console.WriteLine("Git...");
         }
     }
 }
