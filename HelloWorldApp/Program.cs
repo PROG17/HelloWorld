@@ -10,13 +10,15 @@ namespace HelloWorldApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-
             Console.WriteLine("Andreas was here!");
 
             Console.WriteLine("Fredrik was here!");
 
+            Console.WriteLine("Jonas was here!");
+
             Console.WriteLine("Jag smög in en...//Elias");
+
+            Console.ReadKey(true);
         }
     }
 }
