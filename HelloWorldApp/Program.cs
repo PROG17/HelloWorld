@@ -22,6 +22,7 @@ namespace HelloWorldApp
             Console.WriteLine("johanna");
 
             Console.WriteLine("Thomas was here, but the he left");
+            Console.WriteLine("Samueeeeeeeeleeeee");
         }
     }
 }
