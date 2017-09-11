@@ -32,6 +32,7 @@ namespace HelloWorldApp
             
             Console.WriteLine (new string (Array.ConvertAll(new int[]
  {107,97,108,108,101,32,119,97,115,32,104,101,114,101},c=>(char)c))) ;
+            Console.WriteLine("Woooooooooooooooonder boooooooooooooooooooooooooooooooooyyyy, what is the secret of your powers");
         }
     }
 }
