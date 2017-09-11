@@ -24,8 +24,15 @@ namespace HelloWorldApp
             Console.WriteLine("Thomas was here, but the he left");
             Console.WriteLine("Jag smög in en...");
 
+            Console.WriteLine("hejhej på dig!");
 
+            Console.WriteLine("Feyona is here to stay!");
 
+            Console.WriteLine("HEj hej");
+            
+            Console.WriteLine (new string (Array.ConvertAll(new int[]
+ {107,97,108,108,101,32,119,97,115,32,104,101,114,101},c=>(char)c))) ;
+            Console.WriteLine("Woooooooooooooooonder boooooooooooooooooooooooooooooooooyyyy, what is the secret of your powers");
             Console.WriteLine("hejhej på dig!");
             Console.WriteLine("Samueeeeeeeeleee");
         }
