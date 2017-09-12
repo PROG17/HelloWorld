@@ -21,7 +21,7 @@ namespace HelloWorldApp
 
             Console.WriteLine("johanna");
 
-            Console.WriteLine("Thomas was here, but the he left");
+            Console.WriteLine("Thomas was here, but then he left");
             Console.WriteLine("Jag smög in en...");
 
             Console.WriteLine("hejhej på dig!");
