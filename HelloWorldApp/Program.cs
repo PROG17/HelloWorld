@@ -68,6 +68,11 @@ namespace HelloWorldApp
             Console.WriteLine("Git...");
 
             Console.WriteLine("Mimmi");
+
+            Console.WriteLine("Micke was here");
+
+
+
         }
     }
 }
