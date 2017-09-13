@@ -66,6 +66,8 @@ namespace HelloWorldApp
             Console.WriteLine("testing");  
 
             Console.WriteLine("Git...");
+
+            Console.WriteLine("Mimmi");
         }
     }
 }
