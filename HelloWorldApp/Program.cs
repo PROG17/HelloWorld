@@ -10,12 +10,11 @@ namespace HelloWorldApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Nackademin!");
-
             Console.WriteLine("Andreas was here!");
 
             Console.WriteLine("Fredrik was here!");
 
+<<<<<<< HEAD
 
             Console.WriteLine("Jag smög in en...");
 
@@ -25,6 +24,13 @@ namespace HelloWorldApp
 
             Console.WriteLine("johanna");
 
+=======
+            Console.WriteLine("Jonas was here!");
+
+            Console.WriteLine("Jag smög in en...//Elias");
+
+            Console.ReadKey(true);
+>>>>>>> 738c7aa23f640cb375b1a00cf6368620e7ffcfc7
         }
     }
 }
